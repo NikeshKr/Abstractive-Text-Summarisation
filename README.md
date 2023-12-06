@@ -47,7 +47,6 @@ summary = summarize_text(input_article)
 print("Generated Summary:", summary)
 ```
 
-Feel free to explore and modify the code to suit your needs. Happy coding!
 
 ## References
 - [CNN/Daily Mail Dataset](https://huggingface.co/datasets/cnn_dailymail)
